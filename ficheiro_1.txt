@@ -1,1 +1,3 @@
 alter table 1
+
+alter table 1 vamos para o 2
